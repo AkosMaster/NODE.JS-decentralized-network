@@ -245,21 +245,21 @@ console.log(sender + "~##: " + data);
 
 
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-										!
+//										!
 //USEFUL SCRIPTING FUNCTIONS:							!
-										!
+//										!
 //sendToAll(string) --- sends message to everyone on the network		!
 //console.log(string) --- logs string to console				!
-										!
-										!
-										!
+//										!
+//										!
+//										!
 //EXAMPLE RESPONSE SCRIPT							!
-										!
+//										!
 //if (data == "pingme") {							!
 //sendToAll(sender + " " + "response successfull!");				!
 //}										!
-										!
-										!
+//										!
+//										!
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 

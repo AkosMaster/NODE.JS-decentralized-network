@@ -70,7 +70,7 @@ var socket1 = io1.connect(process.argv[2], {reconnect: true});
 
 //client2
 var io2 = require('socket.io-client');
-var socket2 = io1.connect(process.argv[3], {reconnect: true});
+var socket2 = io2.connect(process.argv[3], {reconnect: true});
 
 // Add a connect listener
 
